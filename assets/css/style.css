@@ -193,6 +193,12 @@ main {
 #photos {
     line-height: 0;
 }
+
+/* Sign Up Page */
+#signup {
+    padding: 20px;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
